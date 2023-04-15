@@ -39,3 +39,5 @@ class LoginViewModel: ObservableObject {
         }
     }
 }
+// https://glitch.com/edit/#!/strong-spangled-apartment?path=server.js%3A9%3A46
+// glitch URL for server 
